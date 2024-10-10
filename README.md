@@ -1,2 +1,1 @@
-# 3d
-3d modeling
+https://ogreogles.github.io/3d/
